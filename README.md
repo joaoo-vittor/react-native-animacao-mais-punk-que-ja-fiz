@@ -17,4 +17,6 @@ Sofrer e prova que eu conseguiria fazer.
 
 </br>
 
-<img src="gif/20211017_212229.gif" width="100%" />
+<div align="center">
+  <img src="gif/20211017_212229.gif" width="800px" height="500px" />
+</div>
